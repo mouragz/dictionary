@@ -1,0 +1,41 @@
+{
+    "data": [ {
+        "lang": "ar",
+        "hide":"إخفاء",
+        "show":"إظهار",
+        "letterOnly":"إستخدم الحروف فقط لو سمحت",
+        "noWhiteSpace":"لا يجوز ترك الفراغات",
+        "englishOnly":"إستخدم الحروف اﻹنكليزية فقط ",
+        "wordLength": "كلمة السر قصيرة",
+        "wordNotEmail": "لا تستعمل البريد اﻹلكتروني الخاص بك",
+        "wordSimilarToUsername": "لايجوز لكلمة السر أن تحتوي على اسم المستخدم الخاص بك",
+        "wordTwoCharacterClasses": "إستخدم حروف أخرى",
+        "wordRepetitions": "كثرت الكلمات المتشابهة",
+        "wordSequences": "كلمة السر تحتوي على تسلسل",
+        "Weak":"ضعيفة",
+        "Normal":"طبيعية",
+        "Medium":"متوسطة",
+        "Strong":"قوية",
+        "vStrong":"قوية جداَ"
+    },
+    {
+        "lang": "en",
+        "hide":"hide",
+        "show":"show",
+        "letterOnly":"Letters only please",
+        "noWhiteSpace":"No white space please",
+        "englishOnly":"English only please",
+        "wordLength": "Your password is too short",
+        "wordNotEmail": "Do not use your email as your password",
+        "wordSimilarToUsername": "Your password cannot contain your username",
+        "wordTwoCharacterClasses": "Use different character classes",
+        "wordRepetitions": "Too many repetitions",
+        "wordSequences": "Your password contains sequences",
+        "Weak":"Weak",
+        "Normal":"Normal",
+        "Medium":"Medium",
+        "Strong":"Strong",
+        "vStrong":"Very Strong"
+    }
+    ]
+}
